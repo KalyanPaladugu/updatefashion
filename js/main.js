@@ -44,21 +44,21 @@ function jeanslist(alljeanslist) {
 
   function casuallist(allcasuallist) {
     for (var i = 0; i <= allcasuallist.length - 1; i++) {
-      var card = document.createElement("div");
-      card.classList.add("casualcard");
-  casualshirt.appendChild(card);
+      var card1 = document.createElement("div");
+      card1.classList.add("casualcard");
+  casualshirt.appendChild(card1);
       var image = document.createElement("img");
       image.src = allcasuallist[i].image;
-      card.appendChild(image);
+      card1.appendChild(image);
       var break1 = document.createElement("br");
       image.appendChild(break1);
       var head = document.createElement("p");
       head.textContent = allcasuallist[i].name;
-      card.appendChild(head);
+      card1.appendChild(head);
       var link=document.createElement("a");
       link.textContent="Buy This Product";
       link.href="selection.html?id="+allcasuallist[i].id;
-      card.appendChild(link);
+      card1.appendChild(link);
 
     }
 
