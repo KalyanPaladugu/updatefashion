@@ -16,9 +16,7 @@
        "id":4,
       "image": "images/Slate Gray Jeans.jpeg",
       "name":"Slate Gray Jeans"
-    }
-  ],
-  "casualdress":[
+    },
     {
       "id":5,
       "image":"images/Casual Black Shirt.jpeg",
@@ -37,9 +35,7 @@
       "id":8,
       "image":"images/Casual Pink Shirt.jpeg",
       "name":"Casual Pink Shirt"
-    }
-  ],
-  "formal":[
+    },
     {
       "id":9,
       "image":"/images/Formal Blue Voilet Shirt.jpeg",
