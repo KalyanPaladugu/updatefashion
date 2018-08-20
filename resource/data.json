@@ -38,22 +38,22 @@
     },
     {
       "id":9,
-      "image":"/images/Formal Blue Voilet Shirt.jpeg",
+      "image":"images/Formal Blue Voilet Shirt.jpeg",
       "name":"Formal Blue Voilet Shirt "
     },
     {
       "id":10,
-      "image":"/images/Formal Pale Shirt.jpeg",
+      "image":"images/Formal Pale Shirt.jpeg",
       "name":"Formal Pale Shirt "
     },
     {
       "id":11,
-      "image":"/images/Formal Slate Shirt.jpeg",
+      "image":"images/Formal Slate Shirt.jpeg",
       "name":"Formal Slate Shirt"
     },
     {
       "id":12,
-      "image":"/images/Formal Tropical Voilet Shirt.jpeg",
+      "image":"images/Formal Tropical Voilet Shirt.jpeg",
       "name":"Formal Tropical Voilet Shirt"
     }
   ]
