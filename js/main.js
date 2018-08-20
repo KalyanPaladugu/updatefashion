@@ -14,7 +14,7 @@ loadJSON("resource/data.json", function(text) {
   let output = JSON.parse(text);
   //console.log(output);
  jeanslist(output.jeans);
-  casuallist(output.casualdress);
+//   casuallist(output.casualdress);
 
 });
 
