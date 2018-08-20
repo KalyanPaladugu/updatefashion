@@ -1,22 +1,5 @@
 {
-  "jeans": [{
-    "id":1,
-      "image": "images/Blue Jeans.jpeg",
-      "name":"Blue Jeans"
-    },
-    {
-      "id":2,
-      "image": "images/MediumSlateBlue Jeans.jpeg",
-      "name":"MediumSlateBlue Jeans"
-    }, {
-      "id":3,
-      "image": "images/Navy Jeans.jpeg",
-      "name":"Navy Jeans"
-     }, {
-       "id":4,
-      "image": "images/Slate Gray Jeans.jpeg",
-      "name":"Slate Gray Jeans"
-    },
+  "jeans": [
     {
       "id":5,
       "image":"images/Casual Black Shirt.jpeg",
@@ -55,6 +38,24 @@
       "id":12,
       "image":"images/Formal Tropical Voilet Shirt.jpeg",
       "name":"Formal Tropical Voilet Shirt"
+    },
+    {
+    "id":1,
+      "image": "images/Blue Jeans.jpeg",
+      "name":"Blue Jeans"
+    },
+    {
+      "id":2,
+      "image": "images/MediumSlateBlue Jeans.jpeg",
+      "name":"MediumSlateBlue Jeans"
+    }, {
+      "id":3,
+      "image": "images/Navy Jeans.jpeg",
+      "name":"Navy Jeans"
+     }, {
+       "id":4,
+      "image": "images/Slate Gray Jeans.jpeg",
+      "name":"Slate Gray Jeans"
     }
   ]
 
